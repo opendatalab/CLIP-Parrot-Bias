@@ -73,7 +73,7 @@ Therefore, we also benchmark our trained model on the synthetic images benchmark
 
 ## Acknowledgement
 Thanks for these good works:
-+ [fassi](https://github.com/facebookresearch/faiss) A library for efficient similarity search and clustering for buliding Kmeans model.
++ [faiss](https://github.com/facebookresearch/faiss) A library for efficient similarity search and clustering for buliding Kmeans model.
 + [DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) A strong transformer based text spotting model for profilling LAION dataset.
 + [CLIP](https://github.com/OpenAI/CLIP) Pre-trained CLIP models on WIT-400M.
 + [OpenCLIP](https://github.com/mlfoundations/open_clip) An open source  CLIP implementation of training codes and pre-trained models on LIAON dataset.
