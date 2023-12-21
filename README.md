@@ -1,6 +1,6 @@
 # <img src="assets/datalab_logo.jpeg" alt="alt_text" width="60"> <img src="assets/parrot.jpg" alt="alt_text" width="60"> Parrot Captions Teach CLIP to Spot Text 
 
-[[ Paper ]](https://arxiv.org/abs/) [[ Website ]](https://linyq17.github.io/clip_or_parrot/) [[ Dataset (OpenDataLab)]](https://openxlab.org.cn/datasets/opendatalab-linyiqi/LAION-text-debiased-100M) [[ Dataset (Hugging face) ]](https://huggingface.co/datasets/linyq/laion_text_debiased_100M)
+[[ Paper ]](https://arxiv.org/abs/) [[ Website ]](https://linyq17.github.io/CLIP-Parrot-Bias/) [[ Dataset (OpenDataLab)]](https://openxlab.org.cn/datasets/opendatalab-linyiqi/LAION-text-debiased-100M) [[ Dataset (Hugging face) ]](https://huggingface.co/datasets/linyq/laion_text_debiased_100M)
 
 
 ![overview](assets/overview.png)
