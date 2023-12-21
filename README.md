@@ -11,6 +11,13 @@
 2. Released CLIP models have strong text spotting bias almost in every style of web images, resulting in the CLIP-filtering datasets inherently biased towards visual text dominant data.
 3. CLIP models easily learn text spotting capacity from parrot captions while failing to connect the vision-language semantics, just like a text spotting parrot.
 4. We provide a alternative solution by training a less biased filtered LAION-2B 100M subset and pre-trained CLIP models.
+
+
+## News and Updates
+* ```2023.12.22``` 🎉🎉🎉 We release a [technical report]() for more details.
+A 100M debiased LAION subset ([**OpenDataLab**](https://openxlab.org.cn/datasets/opendatalab-linyiqi/LAION-text-debiased-100M) and [**Hugging Face**](https://huggingface.co/datasets/linyq/laion_text_debiased_100M). ) and pre-trained models are publicly available.
+</br>
+
 ## Kmeans Model from LAION-400M
 
 The Kmeans model we trained from LAION-400M dataset CLIP ViT-B-32 features using [fassi](https://github.com/facebookresearch/faiss).
