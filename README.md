@@ -10,7 +10,7 @@
 1. Captions in LAION-2B have a significant bias towards describing visual text content embedded in the images.
 2. Released CLIP models have strong text spotting bias almost in every style of web images, resulting in the CLIP-filtering datasets inherently biased towards visual text dominant data.
 3. CLIP models easily learn text spotting capacity from parrot captions while failing to connect the vision-language semantics, just like a text spotting parrot.
-4. We provide an alternative solution by training a less biased filtered LAION-2B 100M subset and pre-trained CLIP models.
+4. We provide an alternative solution by realeasing a less biased filtered LAION-2B 100M subset and pre-trained CLIP models.
 
 
 ## News and Updates
