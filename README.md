@@ -10,7 +10,7 @@
 1. Captions in LAION-2B have a significant bias towards describing visual text content embedded in the images.
 2. Released CLIP models have strong text spotting bias almost in every style of web images, resulting in the CLIP-filtering datasets inherently biased towards visual text dominant data.
 3. CLIP models easily learn text spotting capacity from parrot captions while failing to connect the vision-language semantics, just like a text spotting parrot.
-4. We provide a alternative solution by training a less biased filtered LAION-2B 100M subset and pre-trained CLIP models.
+4. We provide an alternative solution by training a less biased filtered LAION-2B 100M subset and pre-trained CLIP models.
 
 
 ## News and Updates
@@ -80,8 +80,15 @@ Thanks for these good works:
 + [DataComp](https://github.com/mlfoundations/datacomp) A comprehensive evaluation benchmark for CLIP models' downstream performace.
 + [Aesthetic Score Predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) An aesthetic score predictor ( how much people like on average an image ) based on a simple neural net that takes CLIP embeddings as inputs.
 
+
+## Reference
 ```bibtex
-@misc{
+
+@misc{conghui2022opendatalab,
+    author={He, Conghui and Li, Wei and Jin, Zhenjiang and Wang, Bin and Xu, Chao and Lin, Dahua},
+    title={OpenDataLab: Empowering General Artificial Intelligence with Open Datasets},
+    howpublished = {\url{https://opendatalab.com}},
+    year={2022}
 }
 ```
 
