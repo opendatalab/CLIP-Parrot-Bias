@@ -1,6 +1,6 @@
 # <img src="assets/parrot.jpg" alt="alt_text" width="60"> Parrot Captions Teach CLIP to Spot Text 
 
-[[ Paper ]](https://arxiv.org/abs/) [[ Website ]](https://linyq17.github.io/CLIP-Parrot-Bias/) [[ Dataset (OpenDataLab)]](https://openxlab.org.cn/datasets/opendatalab-linyiqi/LAION-text-debiased-100M) [[ Dataset (Hugging face) ]](https://huggingface.co/datasets/linyq/laion_text_debiased_100M)
+[[ Paper ]](https://arxiv.org/abs/2312.14232) [[ Website ]](https://linyq17.github.io/CLIP-Parrot-Bias/) [[ Dataset (OpenDataLab)]](https://openxlab.org.cn/datasets/opendatalab-linyiqi/LAION-text-debiased-100M) [[ Dataset (Hugging face) ]](https://huggingface.co/datasets/linyq/laion_text_debiased_100M)
 
 
 ![overview](assets/overview.png)
@@ -83,7 +83,12 @@ Thanks for these good works:
 
 ## Reference
 ```bibtex
-
+@article{lin2023parrot,
+    title={Parrot Captions Teach CLIP to Spot Text}, 
+    author={Yiqi Lin and Conghui He and Alex Jinpeng Wang and Bin Wang and Weijia Li and Mike Zheng Shou},
+    journal={arXiv preprint arXiv:2312.14232},
+    year={2023}
+}
 @misc{conghui2022opendatalab,
     author={He, Conghui and Li, Wei and Jin, Zhenjiang and Wang, Bin and Xu, Chao and Lin, Dahua},
     title={OpenDataLab: Empowering General Artificial Intelligence with Open Datasets},
