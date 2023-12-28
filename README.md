@@ -77,7 +77,7 @@ Thanks for these good works:
 + [DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) A strong transformer based text spotting model for profilling LAION dataset.
 + [CLIP](https://github.com/OpenAI/CLIP) Pre-trained CLIP models on WIT-400M.
 + [OpenCLIP](https://github.com/mlfoundations/open_clip) An open source  CLIP implementation of training codes and pre-trained models on LIAON dataset.
-+ [DataComp](https://github.com/mlfoundations/datacomp) A comprehensive evaluation benchmark for CLIP models' downstream performace.
++ [DataComp](https://github.com/mlfoundations/datacomp) A comprehensive evaluation benchmark for CLIP models' downstream performance.
 + [Aesthetic Score Predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) An aesthetic score predictor ( how much people like on average an image ) based on a simple neural net that takes CLIP embeddings as inputs.
 
 
