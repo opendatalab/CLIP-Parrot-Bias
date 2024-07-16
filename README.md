@@ -56,7 +56,7 @@ Therefore, we also benchmark our trained model on the synthetic images benchmark
 
 | 100M subset | ViT-B Models |
 :---:|:---:
- [Download](https://huggingface.co/datasets/linyq/laion_text_debiased_100M) | [Download](https://drive.google.com/file/d/1yhkaJJCSViUdfXK3o6LnKyvL1LucwtXc/view?usp=sharing)
+ [Download](https://huggingface.co/datasets/linyq/laion_text_debiased_100M) | [Download](https://drive.google.com/file/d/1ywFeZR-e7emvXoW-cxIggXgoWvL8YMDa/view?usp=sharing)
 
 |  1-gram Synthetic Benchmark | Ours <br>(100M) | CLIP <br>(WIT-400M)| OpenCLIP <br>(LAION-2B)| DC medium  <br> 128M (DC) | DC large <br> 1.28B (DC)
 :---:|:---:|:---:|:---:|:---:|:---:
