@@ -89,11 +89,12 @@ Thanks for these good works:
     journal={arXiv preprint arXiv:2312.14232},
     year={2023}
 }
-@misc{conghui2022opendatalab,
-    author={He, Conghui and Li, Wei and Jin, Zhenjiang and Wang, Bin and Xu, Chao and Lin, Dahua},
-    title={OpenDataLab: Empowering General Artificial Intelligence with Open Datasets},
-    howpublished = {\url{https://opendatalab.com}},
-    year={2022}
+
+@article{he2024opendatalab,
+  title={Opendatalab: Empowering general artificial intelligence with open datasets},
+  author={He, Conghui and Li, Wei and Jin, Zhenjiang and Xu, Chao and Wang, Bin and Lin, Dahua},
+  journal={arXiv preprint arXiv:2407.13773},
+  year={2024}
 }
 ```
 
